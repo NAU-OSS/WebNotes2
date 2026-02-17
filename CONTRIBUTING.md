@@ -160,7 +160,7 @@ If you're unsure about anything:
 - Ask in your Pull Request
 - Request clarification before starting large changes
 
-We’re happy to help 🙂
+We’re happy to help!
 
 ---
 
